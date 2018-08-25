@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="transaction_detail (journal entry)"
+    id="a099f071-9d9c-48a3-9ef9-35b16c04ba20">
+  <properties
+      key="id"/>
+  <properties
+      key="amount"/>
+  <properties
+      key="debit_credit_flag"/>
+</archimate:DataObject>

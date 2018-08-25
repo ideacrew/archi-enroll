@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="disbursement"
+    id="456f00f1-ac36-4587-9af1-443a1ac35c65">
+  <properties
+      key="id"/>
+  <properties
+      key="effective_date"/>
+  <properties
+      key="reference_number"/>
+  <properties
+      key="amount"/>
+  <properties
+      key="comment"/>
+</archimate:DataObject>

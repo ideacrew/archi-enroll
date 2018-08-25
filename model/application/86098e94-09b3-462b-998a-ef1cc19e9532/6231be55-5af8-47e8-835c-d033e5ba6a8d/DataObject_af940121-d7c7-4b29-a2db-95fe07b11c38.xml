@@ -1,0 +1,7 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="general_ledger_account_balance"
+    id="af940121-d7c7-4b29-a2db-95fe07b11c38">
+  <properties
+      key="amount"/>
+</archimate:DataObject>

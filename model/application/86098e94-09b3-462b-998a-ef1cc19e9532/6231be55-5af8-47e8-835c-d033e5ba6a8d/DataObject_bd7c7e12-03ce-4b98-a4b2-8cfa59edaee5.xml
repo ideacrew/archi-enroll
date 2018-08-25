@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="general_ledger"
+    id="bd7c7e12-03ce-4b98-a4b2-8cfa59edaee5">
+  <properties
+      key="id"
+      value="Integer"/>
+  <properties
+      key="number"
+      value="Integer"/>
+  <properties
+      key="begin_on"
+      value="Date"/>
+  <properties
+      key="end_on"
+      value="Date"/>
+</archimate:DataObject>

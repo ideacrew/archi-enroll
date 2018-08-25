@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="receipt"
+    id="fac54129-83d9-45df-9430-5dc250206093">
+  <properties
+      key="id"/>
+  <properties
+      key="effective_date"/>
+  <properties
+      key="reference_number"/>
+  <properties
+      key="amount"/>
+  <properties
+      key="comment"/>
+</archimate:DataObject>

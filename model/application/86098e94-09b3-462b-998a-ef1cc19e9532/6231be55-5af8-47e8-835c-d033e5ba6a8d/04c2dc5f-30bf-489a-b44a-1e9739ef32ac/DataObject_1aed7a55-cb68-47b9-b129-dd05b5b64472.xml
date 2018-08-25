@@ -1,0 +1,20 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="accounting_period"
+    id="1aed7a55-cb68-47b9-b129-dd05b5b64472">
+  <properties
+      key="period_id"
+      value="Integer"/>
+  <properties
+      key="period_number"
+      value="Integer"/>
+  <properties
+      key="begin_on"
+      value="Date"/>
+  <properties
+      key="end_on"
+      value="Date"/>
+  <properties
+      key="description"
+      value="String"/>
+</archimate:DataObject>

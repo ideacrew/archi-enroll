@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BenefitSponsorship"
+    id="20781f3e-269d-4203-897d-54e675f3dac9">
+  <properties
+      key="hbx_id"
+      value="String"/>
+  <properties
+      key="profile_id"
+      value="BSON::ObjectId"/>
+  <properties
+      key="effective_begin_on"
+      value="Date"/>
+  <properties
+      key="effective_end_on"
+      value="Date"/>
+</archimate:DataObject>

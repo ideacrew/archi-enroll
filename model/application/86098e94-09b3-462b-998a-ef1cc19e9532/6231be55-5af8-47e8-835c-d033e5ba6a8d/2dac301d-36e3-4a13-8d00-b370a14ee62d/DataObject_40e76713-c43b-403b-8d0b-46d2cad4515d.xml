@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="transaction"
+    id="40e76713-c43b-403b-8d0b-46d2cad4515d">
+  <properties
+      key="transaction_date"/>
+  <properties
+      key="entry_date"/>
+  <properties
+      key="description"/>
+  <properties
+      key="id"/>
+  <properties
+      key="amount"/>
+</archimate:DataObject>

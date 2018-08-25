@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="other_accounting_period"
+    id="71d66975-e957-4cec-bbd0-4d6b51a68c54">
+  <properties
+      key="period_type_id"/>
+  <properties
+      key="description"/>
+</archimate:DataObject>

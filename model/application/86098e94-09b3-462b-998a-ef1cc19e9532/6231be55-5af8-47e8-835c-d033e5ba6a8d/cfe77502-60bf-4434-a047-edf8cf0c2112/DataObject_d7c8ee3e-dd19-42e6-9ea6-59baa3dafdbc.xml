@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="account"
+    id="d7c8ee3e-dd19-42e6-9ea6-59baa3dafdbc">
+  <properties
+      key="title"
+      value="String"/>
+  <properties
+      key="description"
+      value="String"/>
+  <properties
+      key="account_id"
+      value="Integer"/>
+</archimate:DataObject>
