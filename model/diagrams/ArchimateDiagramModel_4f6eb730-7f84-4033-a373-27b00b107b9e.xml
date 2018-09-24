@@ -585,15 +585,6 @@
       targetConnections="9897e823-785d-4f66-9d59-40a688964d7f e80f54cd-ac5d-4d04-831f-e04dbaedca80 a8f1248d-ed7d-492e-b2df-4f207eec19e1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1e9af83a-3bc9-4317-91ba-84d0a26d4e26"
-        source="fae2af48-806e-46d5-9c87-4da009a4b82d"
-        target="c1ce54a5-f41d-4858-b8ee-4e907a82f147">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_4656adcb-3465-4a65-8f4b-1358dd06f91a.xml#4656adcb-3465-4a65-8f4b-1358dd06f91a"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="58c0d363-c663-4907-a8c6-fa9887724dcf"
         source="fae2af48-806e-46d5-9c87-4da009a4b82d"
         target="afd2e386-1091-4d12-85ea-36ee0b520979">
@@ -610,6 +601,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_f98ba92e-f29d-4db1-9cda-7a3cb90f5963.xml#f98ba92e-f29d-4db1-9cda-7a3cb90f5963"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9fda35cf-b757-4743-8cff-d5c608c96b3e"
+        source="fae2af48-806e-46d5-9c87-4da009a4b82d"
+        target="c1ce54a5-f41d-4858-b8ee-4e907a82f147">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_28a202ff-8786-426b-9f87-36475913a107.xml#28a202ff-8786-426b-9f87-36475913a107"/>
+    </sourceConnections>
     <bounds
         x="852"
         y="480"
@@ -622,7 +622,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c1ce54a5-f41d-4858-b8ee-4e907a82f147"
-      targetConnections="34b37676-4542-4e42-9257-3eab3c21b7a5 1e9af83a-3bc9-4317-91ba-84d0a26d4e26 2f5979b5-88a5-49c0-babc-1cc62fba7a13 8cb00b91-bd61-4512-86ed-44d1cc7e3ac5">
+      targetConnections="34b37676-4542-4e42-9257-3eab3c21b7a5 2f5979b5-88a5-49c0-babc-1cc62fba7a13 8cb00b91-bd61-4512-86ed-44d1cc7e3ac5 9fda35cf-b757-4743-8cff-d5c608c96b3e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2f5979b5-88a5-49c0-babc-1cc62fba7a13"
