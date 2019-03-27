@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="quarter_year_accounting_period"
+    name="quarter_of_year_timespan"
     id="28348b09-7527-4db3-9280-e6b351d7dc18">
   <properties
       key="period_type_id"/>

@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="other_accounting_period"
+    name="calendar_year_timespan"
     id="71d66975-e957-4cec-bbd0-4d6b51a68c54">
   <properties
       key="period_type_id"/>
